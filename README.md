@@ -7,16 +7,16 @@ This project is for educational purposes only. Use at your own risk. The author 
 ## How-to:
 
 Clone this repository:
-''' bash
+```bash
 git clone https://github.com/Roiulty/simple-keylogger.git
-'''
+````
 
 Install Requirements:
-'''bash
+```bash
 pip install -r requirements.txt
-''''
+```
 
 Run the file:
-'''bash
+```bash
 python keylogger.py
-'''
+```
