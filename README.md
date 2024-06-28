@@ -16,7 +16,9 @@ Install Requirements:
 pip install -r requirements.txt
 ```
 
-Run the file:
+Run the file(Powershell):
 ```bash
-python keylogger.py
+py keylogger.py
 ```
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/roiul)
